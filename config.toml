@@ -48,19 +48,6 @@ theme = "calade"
     name = "About"
     url = "/about/"
     weight = 2
-[[menu.main]]
-    name = "Posts"
-    url = "/post/"
-    weight = 3
-[[menu.main]]
-    name = "Projects"
-    url = "/project/"
-    weight = 4
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
-
 
 
 # Parameters used throughout the site.
