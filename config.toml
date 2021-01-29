@@ -65,7 +65,7 @@ theme = "calade"
 
 [params]
     siteHeader = "header/banner.png"
-    siteProfile = "header/profile.png"
+    siteProfile = ""
     description = "A website of one's own"
     footer = "A footer of one's own"
     twitterImage = "https://djnavarro.github.io/hugo-calade/header/caladown.png"
