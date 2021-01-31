@@ -21,7 +21,7 @@ publishDir = "docs"
 
 # These settings specify the title for your site, and the name of
 # the Hugo theme that it uses.
-title = "A calade website"
+title = "Data Visualisation"
 theme = "calade"
 
 # What format should the permalinks take?
@@ -45,8 +45,8 @@ theme = "calade"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Resources"
+    url = "/resources/"
     weight = 2
 
 
@@ -66,8 +66,8 @@ theme = "calade"
 [params]
     siteHeader = "header/banner.png"
     siteProfile = ""
-    description = "A website of one's own"
-    footer = "A footer of one's own"
+    description = ""
+    footer = ""
     twitterImage = "https://djnavarro.github.io/hugo-calade/header/caladown.png"
     colorPage = "#333333"    # background colour
     colorText = "#dddddd"    # main text colour
