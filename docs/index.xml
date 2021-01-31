@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>resources</title>
-      <link>/resources/</link>
+      <title>Materials</title>
+      <link>/materials/</link>
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/resources/</guid>
-      <description>Resources</description>
+      <guid>/materials/</guid>
+      <description>Course Material</description>
     </item>
     
   </channel>

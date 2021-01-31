@@ -45,8 +45,8 @@ theme = "calade"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Resources"
-    url = "/resources/"
+    name = "Materials"
+    url = "/materials/"
     weight = 2
 
 
