@@ -24,3 +24,5 @@ The second assignment has the same structure as the first one, but focuses on "d
 
 The third assignment is less structured, and requires more autonomy from you. You will be expected to find your own data set (online or elsewhere), wrangle the data into a clean form, and then create (and explain) those data visualisations in a brief written report. 
 
+
+<br><br><br>

@@ -6,7 +6,7 @@ summary: "Assessment"
 author: ""
 tags: []
 date: 2021-01-30
-rmd_hash: 7930bd9703cf293e
+rmd_hash: 1b0009ec71e64750
 
 ---
 
@@ -29,4 +29,6 @@ Assignment 3: Student data visualisation project (50%)
 ------------------------------------------------------
 
 The third assignment is less structured, and requires more autonomy from you. You will be expected to find your own data set (online or elsewhere), wrangle the data into a clean form, and then create (and explain) those data visualisations in a brief written report.
+
+<br><br><br>
 

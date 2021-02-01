@@ -6,12 +6,14 @@ summary: "Course Material"
 author: ""
 tags: []
 date: 2021-01-30
-rmd_hash: 97ad21888323bdd4
+rmd_hash: d14a95100c11b41f
 
 ---
 
 Course Material
 ===============
+
+Links to lecture slides, YouTube videos and other resources are all available on this page. Please note that the resources for the first few weeks all refer to the class as ["robust tools"](https://robust-tools.djnavarro.net/), which was the name of class that I ran for my honours elective in 2020. The 2021 class is largely the same for the first five weeks, but diverges after that.
 
 Weeks 1-2
 ---------
@@ -52,8 +54,12 @@ Weeks 5-8
 
 Resource list TBA
 
+<br>
+
 Week 9
 ------
 
 Details TBA
+
+<br><br><br>
 
