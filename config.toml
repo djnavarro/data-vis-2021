@@ -48,6 +48,10 @@ theme = "calade"
     name = "Materials"
     url = "/materials/"
     weight = 2
+[[menu.main]]
+    name = "Assessment"
+    url = "/assessment/"
+    weight = 3
 
 
 # Parameters used throughout the site.
