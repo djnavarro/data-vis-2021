@@ -2,12 +2,12 @@
 output: hugodown::md_document
 title: Home
 summary: "Honours Elective: Data Visualisation"
-rmd_hash: 6871d63877970b1d
+rmd_hash: fc711955dae11129
 
 ---
 
-Data Visualisation
-==================
+Data Visualisation in R
+=======================
 
 -   Instructor: [Danielle Navarro](https://djnavarro.net)
 -   Course detail: UNSW honours psychology elective class

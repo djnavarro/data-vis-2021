@@ -4,7 +4,7 @@ title: Home
 summary: "Honours Elective: Data Visualisation"
 ---
 
-# Data Visualisation
+# Data Visualisation in R
 
 - Instructor: [Danielle Navarro](https://djnavarro.net)
 - Course detail: UNSW honours psychology elective class
