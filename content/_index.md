@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Honours Elective: Data Visualisation"
-rmd_hash: ea90435edc2002ea
+rmd_hash: cb3d8d501f7dee60
 
 ---
 
@@ -13,7 +13,7 @@ Instructor: [Danielle Navarro](https://djnavarro.net)
 
 Data visualisation is a fundamental research task that is necessary in almost every field of scientific work. The human visual system is a powerful information processing tool, and in practice scientists rely heavily on figures and graphs to make sense of data they have collected. In this class I'll provide an introduction to data visualisation using the R statistical programming language. No prior knowledge of R is assumed. The class has two parts: the first half will be led by the instructor and based around formal teaching. The second half is self directed, with some input from the instructor. By the end of the class you should have the ability to take a messy data set and produce an elegant, production ready visualisation that cleanly illustrates what the data are saying.
 
-The course is designed to run online and asynchronously. For Weeks 1-5, the course materials take the form of slides, pre-recorded YouTube videos, and some exercises that students can undertake at your own pace. Every Monday, from 9am to 2pm, I will be running "office hours" in which you can arrange drop in on campus for a face to face meeting (subject to whatever covid rules are in effect at the time), or chat with me on slack. I've found that this structure works a little better than trying to run lectures in zoom! Weeks 6-8 are very similar, but instead of following my prerecorded materials, I'll provide a list of "suggested" alternative materials that you can work through. The assessment is based around three exercises each worth 30%, with a 10% mark assigned for engagement and participation.
+The course is designed to run online and asynchronously. For Weeks 1-5, the course materials take the form of slides, pre-recorded YouTube videos, and some exercises that students can undertake at your own pace. Every Monday, from 10am to 2pm, I will be running "office hours" in which you can arrange drop in on campus for a face to face meeting (subject to whatever covid rules are in effect at the time), or chat with me on slack. I've found that this structure works a little better than trying to run lectures in zoom! Weeks 6-8 are very similar, but instead of following my prerecorded materials, I'll provide a list of "suggested" alternative materials that you can work through. The assessment is based around three exercises each worth 30%, with a 10% mark assigned for engagement and participation.
 
 Course schedule
 ---------------
@@ -29,6 +29,12 @@ Assessment schedule
 -   End of week 3: ggplot2 exercise due
 -   End of week 6: dplyr exercise due
 -   End of week 9: data visualisation project due
+
+Office hours
+------------
+
+-   When? Mondays 10am-2pm
+-   Where? Matthews room 927 (or on slack)
 
 <br><br><br>
 
