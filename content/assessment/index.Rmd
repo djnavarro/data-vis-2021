@@ -10,8 +10,17 @@ date: 2021-01-30
 
 # Assessment
 
-## Assignment 1: Data visualisation problems (30%)
+Assessment for the course is based on three assignments. Additional detail will be posted at a later date, but to provide you with a general sense of what it involves here is a brief description of all three:
 
-## Assignment 2: Data wrangling problems (30%)
+## Assignment 1: Data visualisation problems (25%)
 
-## Assignment 3: Student data visualisation project (40%)
+The first assignment will be a structured task in which you'll be presented with a series of (small) programming problems. For example, one question might ask you to create a particular kind of plot, or another might present you with some plotting code that doesn't work and ask you to fix it. There will also be some short answer questions asking you to explain a particular concept. (I will give you a set of practice questions you can work on prior to the real assignment)
+
+## Assignment 2: Data wrangling problems (25%)
+
+The second assignment has the same structure as the first one, but focuses on "data wrangling" problems. For instance, you might be presented with data that is badly organised, and asked to tidy up how the data are coded. 
+
+## Assignment 3: Student data visualisation project (50%)
+
+The third assignment is less structured, and requires more autonomy from you. You will be expected to find your own data set (online or elsewhere), wrangle the data into a clean form, and then create (and explain) those data visualisations in a brief written report. 
+
