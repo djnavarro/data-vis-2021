@@ -2,7 +2,7 @@
 output: hugodown::md_document
 title: Home
 summary: "Honours Elective: Data Visualisation"
-rmd_hash: fc711955dae11129
+rmd_hash: d9a94423b2f22e8d
 
 ---
 
@@ -23,7 +23,7 @@ Course schedule
 -   Week 1-2: Plotting data with ggplot2
 -   Week 3-5: Manipulating data with dplyr
 -   Week 6-8: Self directed learning using extra resources
--   Week 9: Wrap up, Student presentations
+-   Week 9: Wrap up, details TBA
 
 Assessment schedule
 -------------------

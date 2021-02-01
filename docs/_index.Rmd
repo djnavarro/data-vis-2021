@@ -20,7 +20,7 @@ The course is designed to run online and asynchronously. For Weeks 1-5, the [cou
 - Week 1-2: Plotting data with ggplot2
 - Week 3-5: Manipulating data with dplyr
 - Week 6-8: Self directed learning using extra resources 
-- Week 9: Wrap up, Student presentations
+- Week 9: Wrap up, details TBA
 
 ## Assessment schedule
 
