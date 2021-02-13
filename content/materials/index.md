@@ -6,7 +6,7 @@ summary: "Course Material"
 author: ""
 tags: []
 date: 2021-01-30
-rmd_hash: bc2b17355c9fd43e
+rmd_hash: 9383de9856b94293
 
 ---
 
@@ -34,7 +34,7 @@ The next part of the class is a bridging section. It introduces a data set (the 
 -   ["Hello data" slides](https://slides.djnavarro.net/starting-readr)
 -   [RStudio cloud project 978818](https://rstudio.cloud/project/978818)
 -   [YouTube playlist](https://www.youtube.com/watch?v=lpbqlu_Sk3M&list=PLRPB0ZzEYegPYKRLwJRh4AbWWSiIlzmC7)
--   [The reasoning study](reasoning)
+-   [The reasoning experiment](https://robust-tools.djnavarro.net/reasoning/)
 
 <br>
 
