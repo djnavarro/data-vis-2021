@@ -6,7 +6,7 @@ summary: "Course Material"
 author: ""
 tags: []
 date: 2021-01-30
-rmd_hash: 9383de9856b94293
+rmd_hash: 00fdce269dc44758
 
 ---
 
@@ -49,12 +49,31 @@ The third section in the class provides an introduction to data wrangling in R, 
 
 <br>
 
-Weeks 5-8
+Weeks 6-8
 ---------
 
-Resource list TBA
+The plan for weeks 6-8 is for you to explore the world of data visualisation by heading along your own path. Some free resources you might find very useful. First, two books on data visualisation:
 
-<br>
+-   [Data Visualization: A Practical Introduction](https://socviz.co/) by Kieran Healy is a very good introduction. It covers similar territory to this class, with a little more detail on the R programming and the psychology of data visualisation.
+-   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus Wilke is a thorough text that covers a lot of ground, and has a lot of practical guidance.
+
+Some general purpose resources:
+
+-   All my slides and youtube videos are online at <a href="https://slides.djnavarro.net" class="uri">https://slides.djnavarro.net</a>. Most of them you will have already seen through this course, but a few will be new!
+-   [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund is a fantastic general introduction to data science in R. The visualisation content donsn't go much beyond what's in this class, but it teaches a lot of other skills that come in handy when trying to visualise real world data.
+
+Some R packages that you might like to explore:
+
+-   The [gganimate](https://gganimate.com/) package by Thomas Lin Pedersen extends ggplot2 to allow you to create animated gifs as graphics.
+-   The [patchwork](https://patchwork.data-imaginist.com/) package, again by Thomas Lin Pedersen, makes it possible to compose multiple ggplot2 plots into a single image (very handy in real life!)
+-   The [gghighlight](https://yutannihilation.github.io/gghighlight/index.html) package by Hiroaki Yutani allows you to easily "highlight" a subset of the data.  
+-   The [leaflet](https://rstudio.github.io/leaflet/) package allows you to create interactive maps in the style of google maps etc. Note that it is not based on ggplot2, so it has a very different style.
+
+That being said, there is a *huge* ecosystem of packages out there that are built on top of ggplot2, so if there's something you'd like to try doing, it's worth googling around to see what you can find, and if you can't find anything let me know and I'll see if I can find it!
+
+A general strategy for doing this kind of exploration (which you don't have to follow) is to start out by finding a fun data set that you want to play around with, and then try to find the tools that would let you draw the awesomest graphic you can think of to make sense of the data!
+
+Most importantly... please feel free to message me on slack with ideas, suggestions, or questions! It's what I'm here for 😄
 
 Week 9
 ------
